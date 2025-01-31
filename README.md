@@ -1,5 +1,5 @@
 # ICS_Threat_Generator
-This aim of this project is to provide the software implementation of our ICS Threat Generation Methodology. \
+This aim of this repository is to provide the software implementation of our ICS Threat Generation Methodology. \
 Before use, request an API Key from NIST from https://nvd.nist.gov/developers/request-an-api-key. \
 Then, replace your API key in final_app.py file api_key variable at line 474
 
