@@ -11,4 +11,4 @@ sudo apt-get install python3-tk
 
 ## Usage
 python3 ./my_gui \
-Once enumeration is done, click on show results and select all_threats.txt
+Once enumeration is done, click on show results tab and select all_threats.txt
