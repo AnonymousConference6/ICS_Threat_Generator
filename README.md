@@ -6,7 +6,7 @@ Then, replace your API key in final_app.py file api_key variable at line 474
 ## Installation
 python3 -m venv venv \
 sourve venv/bin/activate \
-pip install -r requirements   
+pip3 install -r requirements   
 sudo apt-get install python3-tk  
 
 ## Usage
